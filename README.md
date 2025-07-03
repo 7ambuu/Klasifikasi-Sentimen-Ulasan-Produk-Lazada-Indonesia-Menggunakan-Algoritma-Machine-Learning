@@ -84,3 +84,5 @@ Setiap notebook menghasilkan *confusion matrix* untuk mengevaluasi performa mode
 -   **Confusion Matrix IndoBERT**: Menunjukkan akurasi tinggi dengan sedikit kesalahan klasifikasi baik untuk kelas positif maupun negatif.
 -   **Confusion Matrix SVM**: Menampilkan hasil yang hampir sempurna dengan jumlah *false positives* dan *false negatives* yang sangat minim.
 -   **Confusion Matrix VADER**: Secara jelas menunjukkan ketidakseimbangan performa, di mana mayoritas kesalahan terjadi karena model salah mengklasifikasikan ulasan positif sebagai negatif.
+
+Dibuat dengan ❤️ oleh **Azzam**.
